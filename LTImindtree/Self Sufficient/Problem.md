@@ -27,9 +27,9 @@ Complete the function with the following parameters:
 ---
 
 ## **Constraints**
-- \(1 \leq N \leq 10^3\)
-- \(1 \leq EarnArray[i] \leq 10^3\)
-- \(1 \leq CostArray[i] \leq 10^3\)
+- 1 <= N <= 10^3
+- 1 <= EarnArray[i] <= 10^3
+- 1 <=  CostArray[i] <= 10^3
 
 ---
 
